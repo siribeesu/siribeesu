@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Siri beesu
-# 💫 About Me:
 I am currently pursuing my Bachelor of Technology (B.Tech) and have a strong interest in software development and building real-world applications. I enjoy learning new technologies and applying them to create practical and user-friendly projects. My focus areas include web development, problem-solving, and continuously improving my coding skills.<br><br>During my academic journey, I have gained knowledge in programming languages such as Python and JavaScript, along with fundamentals of data structures, algorithms, and software engineering concepts. I am also exploring frontend and backend development to become a full-stack developer.<br><br>I actively work on personal projects to strengthen my understanding and gain hands-on experience. I am passionate about creating clean, efficient, and scalable solutions. I believe in consistent learning, experimenting with new ideas, and improving my skills step by step.<br><br>I am always open to collaborating on projects, learning from others, and contributing to meaningful development work. My goal is to build impactful applications and grow as a skilled software developer
 
 
